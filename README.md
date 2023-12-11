@@ -49,11 +49,11 @@ chr1    15274   .       A       G,T     3.4     PASS    .       GT:GQ:DP:AD:VAF:
 Please download this entire github reposority to your local computer. To do so:
 1. Navigate to the main page of the repository: [https://github.com/sarahcolbert/quirky_genetics](https://github.com/sarahcolbert/quirky_genetics)
 2. At the top of the files, click on the blue "<> Code" button.
-4. Click "Download ZIP"
+3. Click "Download ZIP"
 <img src="download_instructions_1.png" alt="download instructions 1" width="600"/>
-6. Once downloaded, click on the "quirky_genetics-main.zip" file to decompress it.  
-
-
+4. Once downloaded, click on the "quirky_genetics-main.zip" file to decompress it.  
+  
+  
 The entire test will run via the RMarkdown script. To do so: 
 1. Click on the "quirky_genetics.Rmd" file, which will open in Rstudio.
 2. Once in Rstudio, navigate to line 18 and replace "/path/to/toy.vcf" with the path and filename for your vcf.
