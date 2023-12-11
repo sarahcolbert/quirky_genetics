@@ -57,10 +57,12 @@ Please download this entire github reposority to your local computer. To do so:
 The entire test will run via the RMarkdown script. To do so: 
 1. Click on the "quirky_genetics.Rmd" file, which will open in Rstudio.
 2. Once in Rstudio, navigate to line 18 and replace "/path/to/toy.vcf" with the path and filename for your vcf.
-<img src="upload_instructions_1.png" alt="upload instructions 1" width="500"/>
+<img src="upload_instructions_1.png" alt="upload instructions 1" width="600"/>
 3. Now you're ready to run the test! Click "Knit", then select "Knit to HTML" and your results will begin generating.
 <img src="upload_instructions_2.png" alt="upload instructions 2" width="400"/>
 4. A file with your results should be generated which looks something like:
-<img src="results_instructions_1.png" alt="results instructions 1" width="700"/>
+
+5. 
+<img src="results_instructions_1.png" alt="results instructions 1" width="900"/>
 
 
