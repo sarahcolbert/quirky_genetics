@@ -267,11 +267,11 @@ cat("<h4 style='color: green;'> Found rs17822931 in the vcf file, determining wh
   if(wax_a1=="T" & wax_a2=="T"){
   cat("<h4> You have two T alleles at rs17822931 and therefore you have a dry earwax and are very likely to be of East Asian descent. </h4>")  
   }
-  if((wax_a1=="T" & wax_a2=="A") | (wax_a1=="A" & wax_a2=="T")){
-  cat("<h4> You have one T and one A allele at rs17822931 and therefore you have a wet earwax! </h4>")  
+  if((wax_a1=="T" & wax_a2=="C") | (wax_a1=="C" & wax_a2=="T")){
+  cat("<h4> You have one T and one C allele at rs17822931 and therefore you have a wet earwax! </h4>")  
   }
-  if(wax_a1=="A" & wax_a2=="A"){
-  cat("<h4> You have two A alleles at rs17822931 and therefore you have a wet earwax! </h4>")  
+  if(wax_a1=="C" & wax_a2=="C"){
+  cat("<h4> You have two C alleles at rs17822931 and therefore you have a wet earwax! </h4>")  
   }
 }
 
