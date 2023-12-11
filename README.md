@@ -51,9 +51,10 @@ Please download this entire github reposority to your local computer. To do so:
 2. At the top of the files, click on the blue "<> Code" button.
 3. Click "Download ZIP"
 4. Once downloaded, click on the "quirky_genetics_master.zip" file to decompress it.
+
 The entire test will run via the RMarkdown script. To do so: 
-6. Click on the "quirky_genetics.Rmd" file, which will open in Rstudio.
-7. Once in Rstudio, navigate to line 18 and replace "/path/to/toy.vcf" with the path and filename for your vcf.
-8. Now you're ready to run the test! Click "Knit", then select "Knit to HTML" and your results will begin generating.
+1. Click on the "quirky_genetics.Rmd" file, which will open in Rstudio.
+2. Once in Rstudio, navigate to line 18 and replace "/path/to/toy.vcf" with the path and filename for your vcf.
+3. Now you're ready to run the test! Click "Knit", then select "Knit to HTML" and your results will begin generating.
 
 
