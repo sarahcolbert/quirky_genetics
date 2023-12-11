@@ -63,6 +63,6 @@ The entire test will run via the RMarkdown script. To do so:
 4. A file with your results should be generated which looks something like:
 
 5. 
-<img src="results_instructions_1.png" alt="results instructions 1" width="900"/>
+<img src="results_instructions_2.png" alt="results instructions 2" width="900"/>
 
 
