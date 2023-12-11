@@ -51,7 +51,7 @@ Please download this entire github reposority to your local computer. To do so:
 2. At the top of the files, click on the blue "<> Code" button.
 4. Click "Download ZIP"
 <img src="download_instructions_1.png" alt="download instructions 1" width="600"/>
-6. Once downloaded, click on the "quirky_genetics_master.zip" file to decompress it.
+6. Once downloaded, click on the "quirky_genetics-main.zip" file to decompress it.
 
 
 The entire test will run via the RMarkdown script. To do so: 
