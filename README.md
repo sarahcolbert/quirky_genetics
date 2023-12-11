@@ -32,26 +32,7 @@ install.packages("dplyr")
 ##FORMAT=<ID=PL,Number=G,Type=Integer,Description="Phred-scaled genotype likelihoods rounded to the closest integer">
 ##DeepVariant_version=1.1.0
 ##contig=<ID=chr1,length=248956422>
-##contig=<ID=chr2,length=242193529>
-##contig=<ID=chr3,length=198295559>
-##contig=<ID=chr4,length=190214555>
-##contig=<ID=chr5,length=181538259>
-##contig=<ID=chr6,length=170805979>
-##contig=<ID=chr7,length=159345973>
-##contig=<ID=chr8,length=145138636>
-##contig=<ID=chr9,length=138394717>
-##contig=<ID=chr10,length=133797422>
-##contig=<ID=chr11,length=135086622>
-##contig=<ID=chr12,length=133275309>
-##contig=<ID=chr13,length=114364328>
-##contig=<ID=chr14,length=107043718>
-##contig=<ID=chr15,length=101991189>
-##contig=<ID=chr16,length=90338345>
-##contig=<ID=chr17,length=83257441>
-##contig=<ID=chr18,length=80373285>
-##contig=<ID=chr19,length=58617616>
-##contig=<ID=chr20,length=64444167>
-##contig=<ID=chr21,length=46709983>
+...
 ##contig=<ID=chr22,length=50818468>
 ##contig=<ID=chrX,length=156040895>
 ##contig=<ID=chrY,length=57227415>
@@ -70,8 +51,9 @@ Please download this entire github reposority to your local computer. To do so:
 2. At the top of the files, click on the blue "<> Code" button.
 3. Click "Download ZIP"
 4. Once downloaded, click on the "quirky_genetics_master.zip" file to decompress it.
-5. Click on the "quirky_genetics.Rmd" file, which will open in Rstudio.
-6. Once in Rstudio, navigate to line 18 and replace "/path/to/toy.vcf" with the path and filename for your vcf.
-7. Now you're ready to run the test! Click "Knit", then select "Knit to HTML" and your results will begin generating.
+The entire test will run via the RMarkdown script. To do so: 
+6. Click on the "quirky_genetics.Rmd" file, which will open in Rstudio.
+7. Once in Rstudio, navigate to line 18 and replace "/path/to/toy.vcf" with the path and filename for your vcf.
+8. Now you're ready to run the test! Click "Knit", then select "Knit to HTML" and your results will begin generating.
 
 
