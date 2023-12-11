@@ -62,7 +62,7 @@ The entire test will run via the RMarkdown script. To do so:
 <img src="upload_instructions_2.png" alt="upload instructions 2" width="400"/>
 4. A file with your results should be generated which looks something like:
 
-5. 
+
 <img src="results_instructions_2.png" alt="results instructions 2" width="900"/>
 
 
