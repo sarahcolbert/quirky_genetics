@@ -52,6 +52,7 @@ Please download this entire github reposority to your local computer. To do so:
 3. Click "Download ZIP"
 4. Once downloaded, click on the "quirky_genetics_master.zip" file to decompress it.
 
+
 The entire test will run via the RMarkdown script. To do so: 
 1. Click on the "quirky_genetics.Rmd" file, which will open in Rstudio.
 2. Once in Rstudio, navigate to line 18 and replace "/path/to/toy.vcf" with the path and filename for your vcf.
