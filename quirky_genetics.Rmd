@@ -113,10 +113,10 @@ cat("<h4 style='color: green;'> Only one variant present in the vcf file, using 
   snp1_a1 <- vcf2[which(vcf2$rsid=="rs17293443"),]$A1
   snp1_a2 <- vcf2[which(vcf2$rsid=="rs17293443"),]$A2
   if(snp1_a1=="C" & snp1_a2=="C"){
-  cat("<h4> You have two C alleles at rs17293443 and therefore are at increased risk for birthing dizygotic twins! </h4>")  
+  cat("<h4> You have two C alleles at rs17293443 and therefore are 18% more likely to birth dizygotic twins! </h4>")  
   }
   if((snp1_a1=="C" & snp1_a2!="C") | (snp1_a1!="C" & snp1_a2=="C")){
-  cat("<h4> You have one C allele at rs17293443 and therefore are at increased risk for birthing dizygotic twins! </h4>")  
+  cat("<h4> You have one C allele at rs17293443 and therefore are at slightly increased risk for birthing dizygotic twins! </h4>")  
   }
   if(snp1_a1!="C" & snp1_a2!="C"){
   cat("<h4> You have no C alleles at rs17293443 and therefore have decreased risk for birthing dizygotic twins! </h4>")  
