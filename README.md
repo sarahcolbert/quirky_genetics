@@ -3,7 +3,7 @@ A simple genetic test to find out how your genetics make you quirky!
 
 # Usage requirements
 To use this test, the following is required:
-1. RStudio, which can be downlaoded from [here](https://posit.co/download/rstudio-desktop/).
+1. RStudio, which can be downloaded from [here](https://posit.co/download/rstudio-desktop/).
 2. You will also need the following R packages:
    - data.table
    - tidyr
